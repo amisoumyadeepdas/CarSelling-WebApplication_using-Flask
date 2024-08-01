@@ -65,12 +65,13 @@ The CarSales web application allows users to:
 
 ### Home Page
 
-![Home Page](![Uploading Screenshot 2024-08-01 163413.png…]()
+![Home Page](https://github.com/user-attachments/assets/3dd9cd44-d9b7-4a5d-8007-e7d821267a99)
 )
 
 ### Add Car
 
-![Add Car](static/screenshots/add_car.png)
+![Add Car](![Screenshot 2024-08-01 163413](https://github.com/user-attachments/assets/28f0f5b7-e053-41eb-bfe0-d63ee29fbe7b)
+)
 
 ### Update Car
 
