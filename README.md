@@ -65,13 +65,18 @@ The CarSales web application allows users to:
 
 ### Home Page
 
-![Home Page](static/screenshots/home_page.png)
+![Home Page](![Uploading Screenshot 2024-08-01 163413.png…]()
+)
 
 ### Add Car
 
 ![Add Car](static/screenshots/add_car.png)
 
 ### Update Car
+
+![Update Car](static/screenshots/update_car.png)
+
+### Delete Car
 
 ![Update Car](static/screenshots/update_car.png)
 
