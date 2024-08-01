@@ -66,7 +66,6 @@ The CarSales web application allows users to:
 ### Home Page
 
 ![Home Page](https://github.com/user-attachments/assets/3dd9cd44-d9b7-4a5d-8007-e7d821267a99)
-)
 
 ### Add Car
 
@@ -74,11 +73,11 @@ The CarSales web application allows users to:
 
 ### Update Car
 
-![Update Car](static/screenshots/update_car.png)
+![Update Car](https://github.com/user-attachments/assets/20e6407e-a39f-4f10-98c2-b006ac5aea7e)
 
 ### Delete Car
 
-![Update Car](static/screenshots/update_car.png)
+![Update Car](https://github.com/user-attachments/assets/c8c3d1b9-4982-4bcc-9067-d3169cdd94a9)
 
 ---
 
