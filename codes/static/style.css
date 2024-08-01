@@ -1,0 +1,106 @@
+/* General page styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    color: #212529;
+    margin: 0;
+    padding: 20px;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0)), url('pic_1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+/* Additional styling to enhance readability over background image */
+.container {
+    background-color: rgba(72, 87, 80, 0.514);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Heading styles */
+h1 {
+    color: #040302;
+    text-align: center;
+    margin-bottom: 20px;
+    font-style: oblique;
+    opacity: 0.9;
+}
+
+.car-details {
+    color: #fffdfd;
+}
+
+/* Button styles */
+a.btn-primary {
+    background-color: rgba(92, 156, 7, 0.885);
+    border-color: #010406;
+    color: #000000; /* New text color (yellow) */
+    margin-bottom: 20px;
+    text-decoration: none;
+    font-weight: bold; /* Bold text */
+}
+
+a.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+    color: #fff;
+}
+
+/* Table styles */
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-collapse: collapse;
+    box-shadow: 0 2px 4px rgba(4, 0, 0, 0.807);
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+/* Header styles */
+.table thead {
+    background-color:rgba(92, 156, 7, 0.885); /* New color for thead */
+    color: #080707; /* New text color (Tomato) */
+    font-weight: bold; /* Bold text */
+}
+
+.table thead th {
+    padding: 10px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.table tbody tr {
+    border-bottom: 1px solid rgba(222, 226, 230, 0.8);
+}
+
+.table tbody tr:hover {
+    background-color: rgba(36, 145, 32, 0.671);
+}
+
+.table tbody td {
+    padding: 10px;
+    text-align: left;
+}
+
+/* Link styles */
+a {
+    color: rgba(0, 123, 255, 0.9);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgba(0, 86, 179, 0.9);
+    text-decoration: underline;
+}
+
+/* Table actions */
+.table-actions a {
+    margin-right: 10px;
+    font-weight: bold;
+    opacity: 0.9;
+}
