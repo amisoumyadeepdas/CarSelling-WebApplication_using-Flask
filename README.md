@@ -1,4 +1,4 @@
-# Python web application using Flask and SQLite database
+# Car Selling web application using Flask and SQLite database
 
 This is a simple CRUD web application for managing car sales, built using Flask and SQLite.
 
