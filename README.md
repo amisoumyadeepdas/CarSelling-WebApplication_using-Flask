@@ -70,8 +70,7 @@ The CarSales web application allows users to:
 
 ### Add Car
 
-![Add Car](![Screenshot 2024-08-01 163413](https://github.com/user-attachments/assets/28f0f5b7-e053-41eb-bfe0-d63ee29fbe7b)
-)
+![Add Car](https://github.com/user-attachments/assets/7d7e615c-a800-40a0-844e-79958df43803)
 
 ### Update Car
 
