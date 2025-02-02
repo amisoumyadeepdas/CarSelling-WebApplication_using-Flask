@@ -1,40 +1,34 @@
-# 🚗 Car Selling Web Application using Flask and SQLite Database  
+# 🚗 Car Selling web application using Flask and SQLite database
 
-This is a simple **CRUD** web application for managing car sales, built using **Flask** and **SQLite**.  
+This is a simple CRUD web application for managing car sales, built using Flask and SQLite.
 
 ## 🌍 Live Demo  
 
 🔗 **[Car Selling Web App](https://carselling-webapplication-using-flask-3.onrender.com/)**  
 
----
 
-## **Overview**  
+## Overview
 
-The **CarSales** web application allows users to:  
+The CarSales web application allows users to:
 
 ✔️ **View a list of cars**: Display available cars with details such as **ID, Name, Year, and Price**.  
 ➕ **Add a new car**: Provide details to add a new car to the list.  
 ✏️ **Update an existing car**: Modify details of an existing car.  
 🗑️ **Delete a car**: Remove a car from the list.  
 
----
-
-## **Features**  
+## Features
 
 ✔️ Simple and intuitive interface for managing car sales  
 ✔️ Full **CRUD** operations (Create, Read, Update, Delete)  
 ✔️ Persistent storage using **SQLite** database  
-✔️ Hosted online for easy access  
+✔️ Hosted online for easy access 
 
----
-
-## **Technologies Used**  
+## Technologies Used
 
 - **Flask** 🐍 - Lightweight Python web framework  
 - **SQLite** 🗄️ - Database engine for storing car details  
-- **HTML/CSS** 🎨 - For the frontend UI  
+- **HTML/CSS** 🎨 - For the frontend UI
 
----
 
 ## Setup
 
@@ -64,11 +58,8 @@ The **CarSales** web application allows users to:
 5. **Open your web browser and navigate to:**
 
     ```
-    http://127.0.0.1:5000  (For local development)
+    http://127.0.0.1:5000
     ```
-
-    **Live Demo:**  
-    🔗 **[Car Selling Web App](https://carselling-webapplication-using-flask-3.onrender.com/)**  
 
 ## Usage
 
@@ -94,17 +85,14 @@ The **CarSales** web application allows users to:
 
 ### Delete Car
 
-![Delete Car](https://github.com/user-attachments/assets/c8c3d1b9-4982-4bcc-9067-d3169cdd94a9)
+![Update Car](https://github.com/user-attachments/assets/c8c3d1b9-4982-4bcc-9067-d3169cdd94a9)
 
 ---
 
-## Contribute
-
-Feel free to contribute to the project by forking the repository and submitting pull requests.  
-For any issues or feature requests, please open an issue in the repository.  
-
-📌 **GitHub Repository:** [CarSales on GitHub](https://github.com/yourusername/CarSales)  
+Feel free to contribute to the project by forking the repository and submitting pull requests. For any issues or feature requests, please open an issue in the repository.
 
 ---
 
-Happy Car Sales Management! 🚗💨  
+Happy Car Sales Management!
+
+
